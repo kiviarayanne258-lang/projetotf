@@ -1,0 +1,15 @@
+# Segredos
+.env
+
+# Ambiente e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos gerados pela aplicação
+data/index/
+data/exports/
+
+# Apostilas costumam ter direitos autorais: não publique PDFs de terceiros
+data/apostilas/*.pdf
