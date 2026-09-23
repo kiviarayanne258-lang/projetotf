@@ -322,12 +322,6 @@ Em `avaliacao/perguntas.csv` ficam perguntas de teste no formato `pergunta,pagin
 
 ---
 
-## 🙏 Inspiração e créditos
-
-A ideia geral de usar RAG para conversar com um documento foi inspirada no repositório `agente-rag-stanford`, de Thiago Ribeiro Silva. Este projeto trata de outro problema (estudo com apostilas, quizzes e flashcards) e tem domínio, funcionalidades e documentação próprios.
-
----
-
 ## 👤 Autor
 
 **Kivia Rayane** — [LinkedIn](https://www.linkedin.com/in/<seu-perfil>) · [GitHub](https://github.com/<seu-usuario>)
